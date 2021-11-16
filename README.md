@@ -3,5 +3,6 @@
 This project extracts a depth map image from VL53L1X, sends it 
 over UART and displays the data using Python / Matplotlib.
 
-![dmap.png](depth map)
+![Depth Map](dmap.png)
+
 
